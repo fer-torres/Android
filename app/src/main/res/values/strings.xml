@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mi Historia Clinica</string>
+    <string name="title_activity_listado">Seleccion de Pacientes</string>
+</resources>
